@@ -6,11 +6,11 @@ Github permite abrir **repositorios** donde albergar los proyectos en formato Ma
 La transparencia es clave en los estados democráticos.
 #### Introducción al periodismo de datos.
 Estas son las herramientas para hacer archivos que estamos aprendiendo en la [UPV](http://www.upv.es/ "UPV")
->Esto es una cita
-xx
+> Esto es una cita
 
 PARTE DE LA CLASE SOBRE TERMINAL
 
+```
 # /etc/nsswitch.conf
 #
 #    This file is read once by the first process in a Cygwin process tree.
@@ -26,4 +26,4 @@ PARTE DE LA CLASE SOBRE TERMINAL
 # db_gecos: <empty>
 db_home: /%H
 Estoy personalizando la variable de entorno para tener en cygwin la home de mi usuario como la home de windows
-
+```
